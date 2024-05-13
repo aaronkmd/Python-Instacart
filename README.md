@@ -4,7 +4,7 @@ This repository contains the analysis performed on Instacart's grocery shopping 
 
 ## Project Overview
 
-This project simulates a real-world scenario where I, as a data analyst, was tasked with exploring Instacart’s comprehensive grocery data to understand sales patterns and customer segmentation. The findings from this analysis aim to support Instacart in enhancing their marketing efforts by identifying key customer segments and optimizing ad scheduling based on purchase behaviors.
+This project simulates a real-world scenario where I, as a data analyst, was tasked with exploring Instacart’s comprehensive grocery data to understand sales patterns and customer segmentation. The findings from this analysis aim to support Instacart in enhancing its marketing efforts by identifying key customer segments and optimizing ad scheduling based on purchase behaviors.
 
 ## Repository Structure
 
@@ -19,6 +19,9 @@ This project simulates a real-world scenario where I, as a data analyst, was tas
 - During which times of the day do customers spend the most money?
 - How can product pricing tiers influence marketing strategies?
 - Which departments have the highest frequency of orders?
+- What are the differences in ordering habits based on customer loyalty status?
+- How does the region affect customer purchasing patterns?
+- Is there a connection between demographic factors like age or family status and ordering habits?
 
 ## Tools Used
 
